@@ -316,7 +316,11 @@ export const Desktop = () => {
           <div className="rectangle-24" />
           <div className="ellipse-18" />
         </div>
+        
+
       </div>
+
+      
     </div>
   );
 };
